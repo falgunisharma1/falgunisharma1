@@ -6,7 +6,7 @@
 🏢 Employed as Full Stack Software Engineer @ Arka AI
 📍 Based in Fremont, CA
 
-⚡ Tech Stack <br/>
+⚡ Tech Stack <br />
 
 JavaScript HTML CSS React React Native Redux jQuery
 
