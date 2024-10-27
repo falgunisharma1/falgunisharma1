@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+
+
+🏢 Employed as
+📍 Based in Fremont, CA
+Languages & Tools
+JavaScript HTML CSS React React Native Redux jQuery
+
+Apex Node Express MySQL PostgreSQL MongoDB
+
+Git VSCode Postman webpack
+
+Jest Mocha Cypress
+
+Docker AWS Heroku CircleCI Nginx
 <!--
 **falgunisharma1/falgunisharma1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
