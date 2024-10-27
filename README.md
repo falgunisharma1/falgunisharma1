@@ -1,10 +1,13 @@
 ## Hi there 👋
 
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)  	![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  
 
 
-🏢 Employed as
+🏢 Employed as Full Stack Software Engineer @ Arka AI
 📍 Based in Fremont, CA
-Languages & Tools
+
+⚡ Tech Stack< br / >
+
 JavaScript HTML CSS React React Native Redux jQuery
 
 Apex Node Express MySQL PostgreSQL MongoDB
